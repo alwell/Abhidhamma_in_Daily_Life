@@ -1,5 +1,7 @@
+# Summary
+
 * [Book info](README.md)
-* [Preface](Preface)
+* [Preface](preface.md)
 * [The Four Paramattha Dhammas](The Four Paramattha Dhammas)
 * [The Five Khandhas](The Five Khandhas)
 * [Different Aspects of Citta](Different Aspects of Citta)
@@ -7,11 +9,11 @@
 * [Different Degrees of Lobha](Different Degrees of Lobha)
 * [The Characteristic of Dosa](The Characteristic of Dosa)
 * [Ignorance](Ignorance)
-* [Ahetuka Cittas (Rootless Cittas)](Ahetuka Cittas (Rootless Cittas))
+* [Ahetuka Cittas (Rootless Cittas)](Ahetuka Cittas (Rootless Cittas)
 * [Ahetuka Cittas which are Unknown in Daily Life](Ahetuka Cittas which are Unknown in Daily Life)
 * [The First Citta in Life](The First Citta in Life)
 * [Different Types of Rebirth-Consciousness](Different Types of Rebirth-Consciousness)
-* [The Function of Bhavanga (Life-Continuum)](The Function of Bhavanga (Life-Continuum))
+* [The Function of Bhavanga (Life-Continuum)](The Function of Bhavanga (Life-Continuum)
 * [Functions of Citta](Functions of Citta)
 * [The Function of Javana](The Function of Javana)
 * [The Functions of Tadārammaṇa and Cuti](The Functions of Tadārammaṇa and Cuti)
@@ -26,3 +28,4 @@
 * [Enlightenment](Enlightenment)
 * [Glossary](Glossary)
 * [Footnotes](Footnotes)
+
