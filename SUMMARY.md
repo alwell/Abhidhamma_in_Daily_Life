@@ -2,7 +2,7 @@
 
 * [Book info](README.md)
 * [Preface](preface.md)
-* [The Four Paramattha Dhammas](The Four Paramattha Dhammas)
+* [The Four Paramattha Dhammas](the_four_paramattha_dhammas.md)
 * [The Five Khandhas](The Five Khandhas)
 * [Different Aspects of Citta](Different Aspects of Citta)
 * [The Characteristic of Lobha](The Characteristic of Lobha)
