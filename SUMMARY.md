@@ -12,7 +12,7 @@
 * [Ahetuka Cittas (Rootless Cittas)](ahetukacittas.md)
 * [Ahetuka Cittas which are Unknown in Daily Life](unknownahetuka_cittas.md)
 * [The First Citta in Life](firstcitta.md)
-* [Different Types of Rebirth-Consciousness](rebirth-Consciousness)
+* [Different Types of Rebirth-Consciousness](rebirth-consciousness.md)
 * [The Function of Bhavanga (Life-Continuum)](Bhavanga)
 * [Functions of Citta](Functions_of_Citta)
 * [The Function of Javana](Javana)
