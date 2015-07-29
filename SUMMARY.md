@@ -7,7 +7,7 @@
 * [Different Aspects of Citta](citta.md)
 * [The Characteristic of Lobha](lobha.md)
 * [Different Degrees of Lobha](degreesof_lobha.md)
-* [The Characteristic of Dosa](Dosa)
+* [The Characteristic of Dosa](dosa.md)
 * [Ignorance](Ignorance)
 * [Ahetuka Cittas (Rootless Cittas)](Ahetuka_Cittas)
 * [Ahetuka Cittas which are Unknown in Daily Life](Unknown_Ahetuka_Cittas)
