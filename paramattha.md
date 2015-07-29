@@ -10,7 +10,7 @@ chapter XVIII, 25) explains:
 > For this has been said:
  
 	 As with the assembly of parts 
-	 The word `chariot' is countenanced, 
+	 The word 'chariot' is countenanced, 
 	 So, when the khandhas are present, 
 	 A being' is said in common usage''. 
 	 (Kindred Sayings I, 135) 
