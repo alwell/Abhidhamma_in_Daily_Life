@@ -15,7 +15,7 @@
 * [Different Types of Rebirth-Consciousness](rebirth-consciousness.md)
 * [The Function of Bhavanga (Life-Continuum)](bhavanga.md)
 * [Functions of Citta](functionsof_citta.md)
-* [The Function of Javana](Javana)
+* [The Function of Javana](javana.md)
 * [The Functions of Tadārammaṇa and Cuti](Tadārammaṇa_Cuti)
 * [Objects and Doors](Objects_Doors)
 * [Doors and Physical Bases of Citta](Doors_Physical_Bases)
