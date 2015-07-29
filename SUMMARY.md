@@ -11,7 +11,7 @@
 * [Ignorance](ignorance.md)
 * [Ahetuka Cittas (Rootless Cittas)](ahetukacittas.md)
 * [Ahetuka Cittas which are Unknown in Daily Life](unknownahetuka_cittas.md)
-* [The First Citta in Life](First_Citta)
+* [The First Citta in Life](firstcitta.md)
 * [Different Types of Rebirth-Consciousness](rebirth-Consciousness)
 * [The Function of Bhavanga (Life-Continuum)](Bhavanga)
 * [Functions of Citta](Functions_of_Citta)
