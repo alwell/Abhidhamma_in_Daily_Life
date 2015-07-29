@@ -4,7 +4,7 @@
 * [Preface](preface.md)
 * [The Four Paramattha Dhammas](paramattha.md)
 * [The Five Khandhas](khandhas.md)
-* [Different Aspects of Citta](Citta)
+* [Different Aspects of Citta](citta.md)
 * [The Characteristic of Lobha](Lobha)
 * [Different Degrees of Lobha](Degrees_of_Lobha)
 * [The Characteristic of Dosa](Dosa)
