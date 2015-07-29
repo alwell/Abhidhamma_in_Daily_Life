@@ -14,7 +14,7 @@
 * [The First Citta in Life](firstcitta.md)
 * [Different Types of Rebirth-Consciousness](rebirth-consciousness.md)
 * [The Function of Bhavanga (Life-Continuum)](bhavanga.md)
-* [Functions of Citta](Functions_of_Citta)
+* [Functions of Citta](functionsof_citta.md)
 * [The Function of Javana](Javana)
 * [The Functions of Tadārammaṇa and Cuti](Tadārammaṇa_Cuti)
 * [Objects and Doors](Objects_Doors)
