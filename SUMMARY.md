@@ -10,7 +10,7 @@
 * [The Characteristic of Dosa](dosa.md)
 * [Ignorance](ignorance.md)
 * [Ahetuka Cittas (Rootless Cittas)](ahetukacittas.md)
-* [Ahetuka Cittas which are Unknown in Daily Life](Unknown_Ahetuka_Cittas)
+* [Ahetuka Cittas which are Unknown in Daily Life](unknownahetuka_cittas.md)
 * [The First Citta in Life](First_Citta)
 * [Different Types of Rebirth-Consciousness](rebirth-Consciousness)
 * [The Function of Bhavanga (Life-Continuum)](Bhavanga)
