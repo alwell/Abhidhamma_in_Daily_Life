@@ -5,7 +5,7 @@
 * [The Four Paramattha Dhammas](paramattha.md)
 * [The Five Khandhas](khandhas.md)
 * [Different Aspects of Citta](citta.md)
-* [The Characteristic of Lobha](Lobha)
+* [The Characteristic of Lobha](lobha.md)
 * [Different Degrees of Lobha](Degrees_of_Lobha)
 * [The Characteristic of Dosa](Dosa)
 * [Ignorance](Ignorance)
