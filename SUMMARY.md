@@ -8,7 +8,7 @@
 * [The Characteristic of Lobha](lobha.md)
 * [Different Degrees of Lobha](degreesof_lobha.md)
 * [The Characteristic of Dosa](dosa.md)
-* [Ignorance](Ignorance)
+* [Ignorance](ignorance.md)
 * [Ahetuka Cittas (Rootless Cittas)](Ahetuka_Cittas)
 * [Ahetuka Cittas which are Unknown in Daily Life](Unknown_Ahetuka_Cittas)
 * [The First Citta in Life](First_Citta)
