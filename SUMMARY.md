@@ -16,7 +16,7 @@
 * [The Function of Bhavanga (Life-Continuum)](bhavanga.md)
 * [Functions of Citta](functionsof_citta.md)
 * [The Function of Javana](javana.md)
-* [The Functions of Tadārammaṇa and Cuti](Tadārammaṇa_Cuti)
+* [The Functions of Tadārammaṇa and Cuti](tadarammanacuti.md)
 * [Objects and Doors](Objects_Doors)
 * [Doors and Physical Bases of Citta](Doors_Physical_Bases)
 * [Elements](Elements)
