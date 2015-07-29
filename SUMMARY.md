@@ -6,7 +6,7 @@
 * [The Five Khandhas](khandhas.md)
 * [Different Aspects of Citta](citta.md)
 * [The Characteristic of Lobha](lobha.md)
-* [Different Degrees of Lobha](Degrees_of_Lobha)
+* [Different Degrees of Lobha](degreesof_lobha.md)
 * [The Characteristic of Dosa](Dosa)
 * [Ignorance](Ignorance)
 * [Ahetuka Cittas (Rootless Cittas)](Ahetuka_Cittas)
