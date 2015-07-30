@@ -19,7 +19,7 @@
 * [The Functions of Tadārammaṇa and Cuti](tadarammanacuti.md)
 * [Objects and Doors](objectsdoors.md)
 * [Doors and Physical Bases of Citta](doorsphysical_bases.md)
-* [Elements](Elements)
+* [Elements](elements.md)
 * [The Sobhana Cittas in our Life](Sobhana)
 * [Planes of Existence](Planes)
 * [Samatha](Samatha)
