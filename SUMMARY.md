@@ -18,7 +18,7 @@
 * [The Function of Javana](javana.md)
 * [The Functions of Tadārammaṇa and Cuti](tadarammanacuti.md)
 * [Objects and Doors](objectsdoors.md)
-* [Doors and Physical Bases of Citta](Doors_Physical_Bases)
+* [Doors and Physical Bases of Citta](doorsphysical_bases.md)
 * [Elements](Elements)
 * [The Sobhana Cittas in our Life](Sobhana)
 * [Planes of Existence](Planes)
