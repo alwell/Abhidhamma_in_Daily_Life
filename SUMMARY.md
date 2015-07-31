@@ -25,7 +25,7 @@
 * [Samatha](samatha.md)
 * [Jhānacittas](jhanacittas.md)
 * [Lokuttara Cittas](lokuttara.md)
-* [Enlightenment](Enlightenment)
+* [Enlightenment](enlightenment.md)
 * [Glossary](Glossary)
 * [Footnotes](Footnotes)
 
