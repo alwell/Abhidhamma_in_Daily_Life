@@ -98,8 +98,8 @@ Buddhaghosa in the fifth century A.D. He also edited the commentaries to
 most parts of the Tipiṭaka, thereby basing his works on older
 commentarial traditions.
 
-The Abhidhamma consists of the following seven books^[For a synopsis of their contents see: Guide through the Abhidhamma
-Pitaka by Ven. Nyanatiloka.]
+The Abhidhamma consists of the following seven books [^1] For a synopsis of their contents see: Guide through the Abhidhamma
+Pitaka by Ven. Nyanatiloka].
 
 -   Dhammasangaṇi (Buddhist Psychological Ethics)
 -   Vibhaṅga (Book of Analysis)
