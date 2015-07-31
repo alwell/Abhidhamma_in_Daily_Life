@@ -2,852 +2,852 @@ Glossary
 ========
 
 
- 'abhidhamma' 
+ **abhidhamma** 
 : the higher teachings of Buddhism, teachings on ultimate realities.
 
- 'Abhidhammattha Sangaha'
+ **Abhidhammattha Sangaha**
 : an Encyclopedia of the Abhidhamma, written by Anuruddha between the
  8th and the 12th century A.D.
 
- 'abhiññā'
+ **abhiññā**
 : supernormal powers.
 
- 'adosa'
+ **adosa**
 : non aversion.
 
- 'ahetuka cittas'
+ **ahetuka cittas**
 : not accompanied by “beautiful roots” or unwholesome roots.
 
- 'ākāsānañcāyatana'
+ **ākāsānañcāyatana**
 : sphere of boundless space, the meditation subject of the first
  immaterial jhānacitta.
 
- 'akiñcaññāyatana'
+ **akiñcaññāyatana**
 : sphere of nothingness, the meditation subject of the third
  immaterial jhānacitta.
 
- 'akusala'
+ **akusala**
 : unwholesome, unskilful.
 
- 'alobha'
+ **alobha**
 : non attachment, generosity.
 
- 'amoha'
+ **amoha**
 : wisdom or understanding.
 
- 'anāgāmī'
+ **anāgāmī**
 : non-returner, person who has reached the third stage of
  enlightenment, he has no aversion (dosa).
 
- 'anattā'
+ **anattā**
 : not self.
 
- 'anicca'
+ **anicca**
 : impermanence.
 
- 'anuloma'
+ **anuloma**
 : conformity or adaptation.
 
- 'anusaya'
+ **anusaya**
 : latent tendency or proclivity.
 
- 'anupādisesa nibbāna'
+ **anupādisesa nibbāna**
 : final nibbāna, without the khandhas (aggregates or groups of
  existence) remaining, at the death of an arahat.
 
- 'apo-dhātu'
+ **apo-dhātu**
 : element of water or cohesion.
 
- 'appanā'
+ **appanā**
 : absorption.
 
- 'arahat'
+ **arahat**
 : noble person who has attained the fourth and last stage of
  enlightenment.
 
- 'ārammaṇa'
+ **ārammaṇa**
 : object which is known by consciousness.
 
- 'ariyan'
+ **ariyan**
 : noble person who has attained enlightenment.
 
- 'arūpa-bhūmi'
+ **arūpa-bhūmi**
 : plane of arūpa jhānacitta.
 
- 'arūpa-brahma'
+ **arūpa-brahma**
 : plane plane of existence attained as a result of arūpa-jhāna. There
  are no sense impressions, no rūpa experienced in this realm.
 
- 'arūpa-jhāna'
+ **arūpa-jhāna**
 : immaterial absorption.
 
- 'asaṅkhārika'
+ **asaṅkhārika**
 : unprompted, not induced, either by oneself or by someone else.
 
- 'asaṅkhata dhamma'
+ **asaṅkhata dhamma**
 : unconditioned reality, nibbāna.
 
- 'āsavas'
+ **āsavas**
 : influxes or intoxicants, group of defilements .
 
- 'asobhana'
+ **asobhana**
 : not beautiful, not accompanied by beautiful roots.
 
- 'asubha'
+ **asubha**
 : foul.
 
- 'asura'
+ **asura**
 : demon, being of one of the unhappy planes of existence.
 
- 'atīta-bhavanga'
+ **atīta-bhavanga**
 : past life-continuum, arising and falling away shortly before the
  start of a process of cittas experiencing an object through one of
  the sense-doors.
 
- 'Atthasālinī'
+ **Atthasālinī**
 : The Expositor, a commentary to the first book of the Abhidhamma
  Piṭaka.
 
- 'āvajjana'
+ **āvajjana**
 : adverting of consciousness to the object which has impinged on one
  of the six doors.
 
- 'avijjā'
+ **avijjā**
 : ignorance.
 
- 'ayoniso manasikāra'
+ **ayoniso manasikāra**
 : unwise attention to an object.
 
- 'bhāvanā'
+ **bhāvanā**
 : mental development, comprising the development of calm and the
  development of insight.
 
- 'bhavanga'
+ **bhavanga**
 : life-continuum.
 
- 'bhavanga calana'
+ **bhavanga calana**
 : vibrating bhavanga arising shortly before a process of cittas
  experiencing an object through one of the six doors.
 
- 'bhavangupaccheda'
+ **bhavangupaccheda**
 : arrest bhavanga, last bhavanga-citta before a process of cittas
  starts.
 
- 'bhikkhu'
+ **bhikkhu**
 : monk.
 
- 'bhikkhunī'
+ **bhikkhunī**
 : nun.
 
- 'bhūmi'
+ **bhūmi**
 : plane of existence or plane of citta.
 
- 'brahma-vihāras'
+ **brahma-vihāras**
 : the four divine abidings, meditation subjects which are: loving
  kindness, compassion, sympathetic joy, equanimity.
 
- 'Buddha'
+ **Buddha**
 : a fully enlightened person who has discovered the truth all by
  himself, without the aid of a teacher and can proclaim Dhamma to the
  world.
 
- 'Buddhaghosa'
+ **Buddhaghosa**
 : commentator on the Tipiṭaka, author of the Visuddhimagga in 5 A.D.
 
- 'cakkhu'
+ **cakkhu**
 : eye.
 
- 'cakkhu-dhātu'
+ **cakkhu-dhātu**
 : eye element.
 
- 'cakkhu-dvāra'
+ **cakkhu-dvāra**
 : eyedoor.
 
- 'cakkhu-dvārāvajjana-citta'
+ **cakkhu-dvārāvajjana-citta**
 : eye-door-adverting-consciousness.
 
- 'cakkhuppasāda rūpa'
+ **cakkhuppasāda rūpa**
 : rūpa which is the organ of eyesense, capable of receiving visible
  object.
 
- 'cakkhu-viññāṇa'
+ **cakkhu-viññāṇa**
 : seeing-consciousness.
 
- 'cetanā'
+ **cetanā**
 : volition or intention.
 
- 'cetasika'
+ **cetasika**
 : mental factor arising with consciousness.
 
- 'citta'
+ **citta**
 : consciousness, the reality which knows or cognizes an object.
 
- 'cuti-citta'
+ **cuti-citta**
 : dying-consciousness.
 
- 'dāna'
+ **dāna**
 : generosity, giving.
 
- 'dassana-kicca'
+ **dassana-kicca**
 : function of seeing.
 
- 'dhamma'
+ **dhamma**
 : reality, truth, the teachings.
 
- 'dhamma-dhātu'
+ **dhamma-dhātu**
 : element of dhammas, realities, comprising cetasikas, subtle rūpas,
  nibbāna.
 
- 'dhammārammaṇa'
+ **dhammārammaṇa**
 : all objects other than the sense objects which can be experienced
  through the five sense-doors, thus, objects which can be experienced
  only through the mind-door.
 
- 'Dhammasangaṇi'
+ **Dhammasangaṇi**
 : the first book of the Abhidhamma Piṭaka.
 
- 'Dhātukathā'
+ **Dhātukathā**
 : Discussion on the Elements, the third book of the Abhidhamma.
 
- 'diṭṭhi'
+ **diṭṭhi**
 : wrong view, distorted view of realities.
 
- 'diṭṭhigata sampayutta'
+ **diṭṭhigata sampayutta**
 : accompanied by wrong view.
 
- 'domanassa'
+ **domanassa**
 : unpleasant feeling.
 
- 'dosa'
+ **dosa**
 : aversion or ill will.
 
- 'dosa-mūla-citta'
+ **dosa-mūla-citta**
 : citta (consciousness) rooted in aversion.
 
- 'dukkha'
+ **dukkha**
 : suffering, unsatisfactoriness of conditioned realities.
 
- 'dukkha vedanā'
+ **dukkha vedanā**
 : painful feeling or unpleasant feeling.
 
- 'dvāra'
+ **dvāra**
 : doorway through which an object is experienced, the five sense-doors
  or the mind door.
 
- 'dvi-pañca-viññāṇa'
+ **dvi-pañca-viññāṇa**
 : the five pairs of sense-cognitions, which are seeing, hearing,
  smelling, tasting and body-consciousness. Of each pair one is kusala
  vipāka and one akusala vipāka.
 
- 'ekaggatā'
+ **ekaggatā**
 : concentration, one-pointedness, a cetasika which has the function to
  focus on one object.
 
- 'ganthas'
+ **ganthas**
 : bonds, a group of defilements.
 
- 'ghāna-dhātu'
+ **ghāna-dhātu**
 : nose element.
 
- 'ghānappasāda rūpa'
+ **ghānappasāda rūpa**
 : rūpa which is the organ of smelling sense, capable of receiving
  odour.
 
- 'ghāna-viññāṇa'
+ **ghāna-viññāṇa**
 : smelling-consciousness.
 
- 'ghāyana-kicca'
+ **ghāyana-kicca**
 : function of smelling.
 
- 'gotrabhū'
+ **gotrabhū**
 : change of lineage, the last citta of the sense-sphere before jhāna,
  absorption, is attained, or enlightenment is attained.
 
- 'hadaya-vatthu'
+ **hadaya-vatthu**
 : heart-base, rūpa which is the plane of origin of the cittas other
  than the sense-cognitions.
 
- 'hasituppāda-citta'
+ **hasituppāda-citta**
 : smile producing consciousness of an arahat.
 
- 'hetu'
+ **hetu**
 : root, which conditions citta to be “beautiful” or unwholesome.
 
- 'indriya'
+ **indriya**
 : faculty. Some are rūpas such as the sense organs, some are nāmas
  such as feeling. Five ’spiritual faculties’ are wholesome faculties
  which should be cultivated, namely: confidence, energy, awareness,
  concentration and wisdom.
 
- 'issā'
+ **issā**
 : envy.
 
- 'jāti'
+ **jāti**
 : birth, nature, class (of cittas).
 
- 'javana-citta'
+ **javana-citta**
 : cittas which ’run through the object’, kusala citta or akusala citta
  in the case of non-arahats.
 
- 'jhāna'
+ **jhāna**
 : absorption which can be attained through the development of calm.
 
- 'jhāna-factors'
+ **jhāna-factors**
 : cetasikas which have to be cultivated for the attainment of jhāna:
  vitakka, vicāra, pīti, sukha, samādhi.
 
- 'jivhā-dhātu'
+ **jivhā-dhātu**
 : tongue element.
 
- 'jivhāppasāda rūpa'
+ **jivhāppasāda rūpa**
 : rūpa which is the organ of tasting sense, capable of receiving
  flavour.
 
- 'jivhā-viññāṇa'
+ **jivhā-viññāṇa**
 : tasting-consciousness.
 
- 'kāma'
+ **kāma**
 : sensual enjoyment or the five sense objects.
 
- 'kāma-bhūmi'
+ **kāma-bhūmi**
 : sensuous plane of existence.
 
- 'kāmacchandha'
+ **kāmacchandha**
 : sensuous desire.
 
- 'kāma-sobhana cittas'
+ **kāma-sobhana cittas**
 : beautiful cittas of the sense sphere.
 
- 'kāmāvacara cittas'
+ **kāmāvacara cittas**
 : cittas of the sense sphere.
 
- 'kamma'
+ **kamma**
 : intention or volition; deed motivated by volition.
 
- 'kammapatha'
+ **kammapatha**
 : course of action performed through body, speech or mind which can be
  wholesome or unwholesome.
 
- 'karuṇā'
+ **karuṇā**
 : compassion.
 
- 'kasiṇa'
+ **kasiṇa**
 : disk, used as an object for the development of calm.
 
- 'kāya'
+ **kāya**
 : body. It can also stand for the “mental body”, the cetasikas.
 
- 'kāya dhātu'
+ **kāya dhātu**
 : the element of bodysense.
 
- 'kāyappasāda rūpa'
+ **kāyappasāda rūpa**
 : bodysense, the rūpa which is capable of receiving tangible object.
  It is all over the body, inside or outside.
 
- 'kāya-viññatti'
+ **kāya-viññatti**
 : bodily intimation, such as gestures, facial expression, etc.
 
- 'kāya-viññāṇa'
+ **kāya-viññāṇa**
 : body-consciousness.
 
- 'khandhas'
+ **khandhas**
 : aggregates of conditioned realities classified as five groups:
  physical phenomena, feelings, perception or remembrance, activities
  or formations (cetasikas other than feeling or perception),
  consciousness.
 
- 'kicca'
+ **kicca**
 : function.
 
- 'kilesa'
+ **kilesa**
 : defilements.
 
- 'kiriya citta'
+ **kiriya citta**
 : inoperative citta, neither cause nor result.
 
- 'kukkucca'
+ **kukkucca**
 : regret or worry.
 
- 'kusala citta'
+ **kusala citta**
 : wholesome consciousness.
 
- 'kusala kamma'
+ **kusala kamma**
 : a good deed.
 
- 'kusala'
+ **kusala**
 : wholesome, skillful.
 
- 'lobha'
+ **lobha**
 : attachment, greed.
 
- 'lobha-mūla-citta'
+ **lobha-mūla-citta**
 : consciousness rooted in attachment.
 
- 'lokiya citta'
+ **lokiya citta**
 : citta which is mundane, not experiencing nibbāna.
 
- 'lokuttara citta'
+ **lokuttara citta**
 : supramundane citta which experiences nibbāna.
 
- 'lokuttara dhammas'
+ **lokuttara dhammas**
 : the unconditioned dhamma which is nibbāna and the cittas which
  experience nibbāna.
 
- 'macchariya'
+ **macchariya**
 : stinginess.
 
- 'magga'
+ **magga**
 : path (eightfold Path).
 
- 'magga-citta'
+ **magga-citta**
 : path consciousness, supramundane citta which experiences nibbāna and
  eradicates defilements.
 
- 'mahā-bhūta-rūpas'
+ **mahā-bhūta-rūpas**
 : the rūpas which are the four great elements of “earth” or solidity,
  “water ” or cohesion, “fire” or temperature, and “wind” or motion.
 
- 'mahā-kiriyacitta'
+ **mahā-kiriyacitta**
 : inoperative sense-sphere citta of the arahat, accompanied by
  “beautiful” roots.
 
- 'mahā-kusala citta'
+ **mahā-kusala citta**
 : wholesome citta of the sense sphere.
 
- 'mahā-vipākacitta'
+ **mahā-vipākacitta**
 : citta of the sense sphere which is result, accompanied by
  “beautiful” roots.
 
- 'manāyatana'
+ **manāyatana**
 : mind-base, including all cittas.
 
- 'mano'
+ **mano**
 : mind, citta, consciousness.
 
- 'mano-dhātu'
+ **mano-dhātu**
 : mind-element, comprising the five-sense-door adverting-
  consciousness, and the two types of receiving-consciousness.
 
- 'mano-dvārāvajjana-citta'
+ **mano-dvārāvajjana-citta**
 : mind-door-adverting-consciousness.
 
- 'mano-dvāra-vīthi-cittas'
+ **mano-dvāra-vīthi-cittas**
 : cittas arising in a mind-door process.
 
- 'mano-viññāṇa-dhātu'
+ **mano-viññāṇa-dhātu**
 : mind-consciousness element, comprising all cittas other than the
  sense-cognitions (seeing, etc.) and mind-element.
 
- 'māra'
+ **māra**
 : “the evil one”—all that leads to dukkha
 
- 'mettā'
+ **mettā**
 : loving kindness.
 
- 'middha'
+ **middha**
 : torpor or languor.
 
- 'moha'
+ **moha**
 : ignorance. moha-mūla-citta citta rooted in ignorance.
 
- 'muditā'
+ **muditā**
 : sympathetic joy.
 
- 'nāma'
+ **nāma**
 : mental phenomena, including those which are conditioned and also the
  unconditioned nāma which is nibbāna.
 
- 'natthika diṭṭhi'
+ **natthika diṭṭhi**
 : wrong view of annihilation, assumption that there is no result of
  kamma.
 
- 'n’eva-saññā-n’āsaññāyatana'
+ **n’eva-saññā-n’āsaññāyatana**
 : sphere of neither perception nor non-perception, the meditation
  subject of the fourth immaterial jhāna.
 
- 'nibbāna'
+ **nibbāna**
 : the unconditioned reality, the reality which does not arise and fall
  away.The destruction of lust, hatred and delusion. The deathless.
  The end of suffering.
 
- 'nimitta'
+ **nimitta**
 : mental image one can acquire of a meditation subject in tranquil
  meditation.
 
- 'nirodha-samāpatti'
+ **nirodha-samāpatti**
 : attainment of cessation of consciousness.
 
- 'nīvaraṇa'
+ **nīvaraṇa**
 : hindrances, a group of defilements.
 
- 'ñāṇa'
+ **ñāṇa**
 : wisdom, insight.
 
- 'ojā'
+ **ojā**
 : the rūpa which is nutrition.
 
- 'oḷārika rūpas'
+ **oḷārika rūpas**
 : gross rūpas (sense objects and sense organs).
 
- 'Pacceka Buddha'
+ **Pacceka Buddha**
 : Silent Buddha, an enlightened one who has found the truth by himself
  but does not proclaim Dhamma to the world.
 
- 'paṭibhāga nimitta'
+ **paṭibhāga nimitta**
 : counterpart image, more perfected mental image of a meditation
  subject, acquired in tranquil meditation.
 
- 'paṭigha'
+ **paṭigha**
 : aversion or ill will.
 
- 'Paṭṭhāna'
+ **Paṭṭhāna**
 : Conditional Relations, the seventh book of the Abhidhamma.
 
- 'paṭisandhi citta'
+ **paṭisandhi citta**
 : rebirth consciousness.
 
- 'Pāli'
+ **Pāli**
 : the language of the Buddhist teachings.
 
- 'pañcadvārāvajjana-citta'
+ **pañcadvārāvajjana-citta**
 : five-sense-door-adverting-consciousness.
 
- 'pañcaviññāṇa'
+ **pañcaviññāṇa**
 : (or dvi-pañcaviññāṇa), the sense cognitions (seeing etc.) of which
  there are five pairs.
 
- 'paññā'
+ **paññā**
 : wisdom or understanding.
 
- 'paññatti'
+ **paññatti**
 : concepts, conventional terms.
 
- 'paramattha dhamma'
+ **paramattha dhamma**
 : truth in the absolute sense: mental and physical phenomena, each
  with their own characteristic.
 
- 'parikamma'
+ **parikamma**
 : preparatory consciousness, the first javana citta arising in the
  process during which absorption or enlightenment is attained.
 
- 'pasāda-rūpas'
+ **pasāda-rūpas**
 : rūpas which are capable of receiving sense-objects such as visible
  object, sound, taste, etc. peta ghost.
 
- 'phala-citta'
+ **phala-citta**
 : fruition consciousness experiencing nibbāna. It is result of magga-
  citta, path-consciousness.
 
- 'phassa'
+ **phassa**
 : contact.
 
- 'phoṭṭhabbārammaṇa'
+ **phoṭṭhabbārammaṇa**
 : tangible object, experienced through bodysense.
 
- 'phusanakicca'
+ **phusanakicca**
 : function of experiencing tangible object.
 
- 'pīti'
+ **pīti**
 : joy, rapture, enthusiasm.
 
- 'Puggalapaññatti'
+ **Puggalapaññatti**
 : Designation of Human Types, the fourth book of the Abhidhamma.
 
- 'puthujjana'
+ **puthujjana**
 : “worldling”, a person who has not attained enlightenment.
 
- 'Rāhula'
+ **Rāhula**
 : the Buddha’s son.
 
- 'rasārammaṇa'
+ **rasārammaṇa**
 : object of flavour.
 
- 'rūpārammaṇa'
+ **rūpārammaṇa**
 : visible object.
 
- 'rūpa'
+ **rūpa**
 : physical phenomena, realities which do not experience anything.
 
- 'rūpa-brahma'
+ **rūpa-brahma**
 : plane rūpa-bhūmi, fine material realm of existence attained as a
  result of rūpa-jhāna.
 
- 'rūpa-jhāna'
+ **rūpa-jhāna**
 : fine material absorption, developed with a meditation subject which
  is still dependant on materiality.
 
- 'rūpa-khandha'
+ **rūpa-khandha**
 : aggregate or group of all physical phenomena (rūpas).
 
- 'rūpāvacara cittas'
+ **rūpāvacara cittas**
 : rūpa-jhānacittas, consciousness of the fine-material sphere.
 
- 'saddārammaṇa'
+ **saddārammaṇa**
 : sound.
 
- 'saddhā'
+ **saddhā**
 : confidence.
 
- 'sahagata'
+ **sahagata**
 : accompanied by.
 
- 'sahetuka'
+ **sahetuka**
 : accompanied by roots.
 
- 'sakadāgāmī'
+ **sakadāgāmī**
 : once-returner, a noble person who has attained the second stage of
  enlightenment.
 
- 'samādhi'
+ **samādhi**
 : concentration or one-pointedness, ekaggatā cetasika.
 
- 'samatha'
+ **samatha**
 : the development of calm.
 
- 'sammā'
+ **sammā**
 : right.
 
- 'sampaṭicchana-citta'
+ **sampaṭicchana-citta**
 : receiving-consciousness.
 
- 'sampayutta'
+ **sampayutta**
 : associated with.
 
- 'Sangha'
+ **Sangha**
 : community of monks and nuns. As one of the triple Gems it means the
  community of those people who have attained enlightenment.
 
- 'saṅkhāra dhammas'
+ **saṅkhāra dhammas**
 : conditioned dhammas that arise together depending on each other.
 
- 'saṅkhata dhamma'
+ **saṅkhata dhamma**
 : what has arisen because of conditions.
 
- 'saṅkhāra-kkhandha'
+ **saṅkhāra-kkhandha**
 : all cetasikas (mental factors) except feeling and memory.
 
- 'saññā'
+ **saññā**
 : memory, remembrance or “perception”.
 
- 'saññā-kkhandha'
+ **saññā-kkhandha**
 : memory classified as one of the five khandhas.
 
- 'santīraṇa-citta'
+ **santīraṇa-citta**
 : investigating-consciousness.
 
- 'Sāriputta'
+ **Sāriputta**
 : chief disciple of Buddha.
 
- 'sasaṅkhārika'
+ **sasaṅkhārika**
 : prompted, induced, instigated, either by oneself or someone else.
 
- 'sati'
+ **sati**
 : mindfulness or awareness: non-forgetfulness of what is wholesome, or
  non-forgetfulness of realities which appear.
 
- 'satipaṭṭhāna sutta'
+ **satipaṭṭhāna sutta**
 : Middle Length Sayings 1, number 10, also Dīgha Nikāya, Dialogues,
  no. 22.
 
- 'satipaṭṭhāna'
+ **satipaṭṭhāna**
 : applications of mindfulness. It can mean the cetasika sati which is
  aware of realities or the objects of mindfulness which are
  classified as four applications of mindfulness: Body, Feeling Citta,
  Dhamma. Or it can mean the development of direct understanding of
  realities through awareness.
 
- 'sa-upadi-sesa nibbāna'
+ **sa-upadi-sesa nibbāna**
 : the attainment of nibbāna with the khandhas remaining by the arahat,
  thus not final nibbāna at death of an arahat.
 
- 'sāyana-kicca'
+ **sāyana-kicca**
 : function of tasting.
 
- 'savana-kicca'
+ **savana-kicca**
 : function of hearing.
 
- 'sīla'
+ **sīla**
 : morality in action or speech, virtue.
 
- 'sīlabbatupādāna'
+ **sīlabbatupādāna**
 : wrong practice, which is clinging to certain rules (“rites and
  rituals”) in one’s practice.
 
- 'sobhana-hetus'
+ **sobhana-hetus**
 : beautiful roots.
 
- 'sobhana kiriya cittas'
+ **sobhana kiriya cittas**
 : kiriyacittas accompanied by sobhana (beautiful) roots.
 
- 'sobhana(citta and cetasika)'
+ **sobhana(citta and cetasika)**
 : beautiful, accompanied by beautiful roots.
 
- 'somanassa'
+ **somanassa**
 : happy feeling.
 
- 'sota-dhātu'
+ **sota-dhātu**
 : element of earsense.
 
- 'sota-dvārāvajjana-citta'
+ **sota-dvārāvajjana-citta**
 : ear-door-adverting-consciousness.
 
- 'sota-dvāra-vīthi-cittas'
+ **sota-dvāra-vīthi-cittas**
 : ear-door process cittas.
 
- 'sotāpanna'
+ **sotāpanna**
 : person who has attained the first stage of enlightenment, and who
  has eradicated wrong view of realities.
 
- 'sota-viññāṇa'
+ **sota-viññāṇa**
 : hearing-consciousness.
 
- 'sukha'
+ **sukha**
 : happy, pleasant.
 
- 'sukha-vedanā'
+ **sukha-vedanā**
 : pleasant feeling.
 
- 'sukhuma'
+ **sukhuma**
 : subtle.
 
- 'sutta'
+ **sutta**
 : part of the scriptures containing dialogues at different places on
  different occasions.
 
- 'suttanta'
+ **suttanta**
 : a sutta text.
 
- 'tadālambana'
+ **tadālambana**
 : retention or registering, last citta of a complete process of the
  sense-sphere.
 
- 'tadārammaṇa'
+ **tadārammaṇa**
 : as above.
 
- 'Tathāgata'
+ **Tathāgata**
 : literally “thus gone”, epithet of the Buddha.
 
- 'tatramajjhattatā'
+ **tatramajjhattatā**
 : equanimity or evenmindedness.
 
- 'tejo-dhātu'
+ **tejo-dhātu**
 : element of fire or heat.
 
- 'Theravāda Buddhism'
+ **Theravāda Buddhism**
 : ‘Doctrine of the Elders’, the oldest tradition of Buddhism.
 
- 'thīna'
+ **thīna**
 : sloth.
 
- 'Tipiṭaka'
+ **Tipiṭaka**
 : the teachings of the Buddha contained in the Vinaya, the Suttanta
  and the Abhidhamma.
 
- 'uddhacca'
+ **uddhacca**
 : restlessness.
 
- 'Udāna'
+ **Udāna**
 : Verses of Uplift from the Minor Anthologies.
 
- 'upacāra'
+ **upacāra**
 : access or proximity consciousness, the second javana-citta in the
  process in which absorption or enlightenment is attained.
 
- 'upacāra-samādhi'
+ **upacāra-samādhi**
 : access-concentration.
 
- 'upādā-rūpa'
+ **upādā-rūpa**
 : “derived rūpas” the rūpas other than the four Great Elements.
 
- 'upādāna'
+ **upādāna**
 : clinging.
 
- 'upādāna-kkhandhas'
+ **upādāna-kkhandhas**
 : khandhas of clinging.
 
- 'upekkhā'
+ **upekkhā**
 : indifferent feeling. It can stand for evenmindedness or equanimity
  and then it is not feeling.
 
- 'vacīviññatti'
+ **vacīviññatti**
 : the rūpa which is speech intimation.
 
- 'vatthu'
+ **vatthu**
 : base, physical base of citta.
 
- 'vāyo-dhātu'
+ **vāyo-dhātu**
 : element of wind or motion.
 
- 'vedanā'
+ **vedanā**
 : feeling.
 
- 'vedanā-kkhandha'
+ **vedanā-kkhandha**
 : group of all feelings.
 
- 'Vibhaṅga'
+ **Vibhaṅga**
 : “Book of Analysis”, second book of the Abhidhamma.
 
- 'vicāra'
+ **vicāra**
 : sustained thinking or discursive thinking.
 
- 'vicikicchā'
+ **vicikicchā**
 : doubt.
 
- 'vinaya'
+ **vinaya**
 : Book of Discipline for the monks.
 
- 'viññāṇa'
+ **viññāṇa**
 : consciousness, citta.
 
- 'viññāṇa-dhātu'
+ **viññāṇa-dhātu**
 : element of consciousness, comprising all cittas.
 
- 'viññāṇa-kkhandha'
+ **viññāṇa-kkhandha**
 : group of all cittas (consciousness).
 
- 'viññāṇañcāyatana'
+ **viññāṇañcāyatana**
 : sphere of boundless consciousness, meditation subject for the second
  stage of immaterial jhāna.
 
- 'vipākacitta'
+ **vipākacitta**
 : citta which is the result of a wholesome deed (kusala kamma) or an
  unwholesome deed (akusala kamma). It can arise as rebirth-
  consciousness, or during life as the experience of pleasant or
  unpleasant objects through the senses, such as seeing, hearing, etc.
 
- 'vipassanā'
+ **vipassanā**
 : wisdom which sees realities as they are.
 
- 'vippayutta'
+ **vippayutta**
 : dissociated from.
 
- 'viriya'
+ **viriya**
 : energy.
 
- 'visaṇkāra dhamma'
+ **visaṇkāra dhamma**
 : unconditioned dhamma, nibbāna.
 
- 'Visuddhimagga'
+ **Visuddhimagga**
 : an Encyclopaedia of the Buddha’s teachings, written by Buddhaghosa
  in the fifth century A.D.
 
- 'vitakka'
+ **vitakka**
 : applied thinking.
 
- 'vīthi-cittas'
+ **vīthi-cittas**
 : cittas arising in a process.
 
- 'vīthimutta-cittas'
+ **vīthimutta-cittas**
 : process freed cittas, cittas which do not arise within a process.
 
- 'votthapana-citta'
+ **votthapana-citta**
 : determining consciousness.
 
- 'vyāpāda'
+ **vyāpāda**
 : ill-will.
 
- 'Yamaka'
+ **Yamaka**
 : the Book of Pairs, the sixth book of the Abhidhamma.
 
- 'yoniso manasikāra'
+ **yoniso manasikāra**
 : wise attention to the object.
