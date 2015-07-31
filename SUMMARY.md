@@ -21,7 +21,7 @@
 * [Doors and Physical Bases of Citta](doorsphysical_bases.md)
 * [Elements](elements.md)
 * [The Sobhana Cittas in our Life](sobhana.md)
-* [Planes of Existence](Planes)
+* [Planes of Existence](planes.md)
 * [Samatha](Samatha)
 * [Jhānacittas](Jhānacittas)
 * [Lokuttara Cittas](Lokuttara)
