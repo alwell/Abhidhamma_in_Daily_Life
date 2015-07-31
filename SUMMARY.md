@@ -24,7 +24,7 @@
 * [Planes of Existence](planes.md)
 * [Samatha](samatha.md)
 * [Jhānacittas](jhanacittas.md)
-* [Lokuttara Cittas](Lokuttara)
+* [Lokuttara Cittas](lokuttara.md)
 * [Enlightenment](Enlightenment)
 * [Glossary](Glossary)
 * [Footnotes](Footnotes)
