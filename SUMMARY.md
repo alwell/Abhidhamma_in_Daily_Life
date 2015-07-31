@@ -20,7 +20,7 @@
 * [Objects and Doors](objectsdoors.md)
 * [Doors and Physical Bases of Citta](doorsphysical_bases.md)
 * [Elements](elements.md)
-* [The Sobhana Cittas in our Life](Sobhana)
+* [The Sobhana Cittas in our Life](sobhana.md)
 * [Planes of Existence](Planes)
 * [Samatha](Samatha)
 * [Jhānacittas](Jhānacittas)
