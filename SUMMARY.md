@@ -26,6 +26,6 @@
 * [Jhānacittas](jhanacittas.md)
 * [Lokuttara Cittas](lokuttara.md)
 * [Enlightenment](enlightenment.md)
-* [Glossary](Glossary)
+* [Glossary](glossary.md)
 * [Footnotes](Footnotes)
 
