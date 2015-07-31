@@ -23,7 +23,7 @@
 * [The Sobhana Cittas in our Life](sobhana.md)
 * [Planes of Existence](planes.md)
 * [Samatha](samatha.md)
-* [Jhānacittas](Jhānacittas)
+* [Jhānacittas](jhanacittas.md)
 * [Lokuttara Cittas](Lokuttara)
 * [Enlightenment](Enlightenment)
 * [Glossary](Glossary)
