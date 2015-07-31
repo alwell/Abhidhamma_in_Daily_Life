@@ -27,5 +27,5 @@
 * [Lokuttara Cittas](lokuttara.md)
 * [Enlightenment](enlightenment.md)
 * [Glossary](glossary.md)
-* [Footnotes](Footnotes)
+* [Footnotes](footnotes.md)
 
